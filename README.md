@@ -3,6 +3,7 @@ Because I want to work in analysis. I learnt how to use Python to create PDF rep
 # Code
 
 import pandas as pd
+
 import matplotlib.pyplot as plt
 
 data = pd.read_csv ('Money.csv')
